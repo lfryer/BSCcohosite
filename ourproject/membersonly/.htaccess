@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Bay State Commons Protected Area"
+AuthUserFile /home/baystate/public_html/ourproject/membersonly/.htpasswd
+Require valid-user

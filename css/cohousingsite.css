@@ -1,0 +1,306 @@
+body {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	background: #E1EDC9;
+	font-family: sans-serif;
+}
+div.content {
+	background: #FFFFFF url("/images/swirly_treelight.gif") no-repeat right bottom;
+	clear: both;
+	min-height: 240px;
+	padding: 10px 20px 200px;
+	margin: 0% 5% 5%;
+	overflow: hidden;
+	position: relative;
+	border-radius: 6px;
+}
+h1 {
+	color: #000000;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+	margin: 4px;
+}
+h5 {
+	font-size: 16px;
+}
+p {
+	margin: -1px;
+}
+p.text {
+	text-indent: 20px;
+	line-height: 150%;
+	padding: 0px 0px 10px;
+}
+p.query {
+	text-indent: 20px;
+	font-weight: bold;
+	line-height: 200%;
+	padding: 10px 0px;
+}
+p.quote {
+	text-indent: 20px;
+	line-height: 150%;
+	padding: 0px 0px 10px;
+	font-style: italic;
+}
+p#indents {
+	padding-left: 20px;
+}
+p#centered {
+	text-align: center;
+	line-height: 200%;
+}
+p.news {
+	font-size: 22px;
+	background: #E1EDC9;
+	width: 60%;
+	line-height: 150%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+p.pdf {
+	color: #000000;
+	size: 10px;
+	text-align: center;
+}
+dt {
+	font-size: 18px;
+	color: #459e00;
+	padding: 10px 0px;
+	text-align: center;
+}
+.anchor{
+  display: block;
+  height: 217px; /*same height as header*/
+  margin-top: -217px; /*same height as header*/
+  visibility: hidden;
+}
+p.centersmall {
+	text-align: center;
+	size: 14px;
+}
+p.faq {
+	column-count: 2;
+	display: block;
+	font-size: 22px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 0px 0px 10px;
+	width: 80%;
+}
+p.faq a {
+	text-transform: initial;
+	font-size: 18px;
+}
+p.faq a:visited {
+	color: #A9A9A9;
+}
+div#news {
+	clear: both;
+}
+ul.news {
+	text-indent: 20px;
+	line-height: 150%;
+}
+table.photos {
+	margin-left: auto;
+	margin-right: auto;
+}
+div#logo {
+	float: left;
+	padding-left: 15%;
+}
+div#sub {
+	float: left;
+	padding-top: 140px;
+	padding-right: 15%;
+	padding-left: 10%;
+	font-style: italic;
+}
+div.sidebar {
+	position: absolute;
+	border-radius: 6px 0px 0px 6px;
+	background: #459e00;
+	padding: 0px;
+	margin: -10px 0px 0px -20px;
+	height: 100%;
+}
+.sidebar ul {
+	display: block;
+	list-style: none;
+	padding: 0px 0px 0px 15px;
+	border-radius: 6px;
+	height: 100%;
+	width: 150px;
+}
+.sidebar li {
+	padding: 5%;
+	border: 1px solid #459e00;
+	color: #E1EDC9;
+}
+.sidebar a,
+.sidebar a:link,
+.sidebar a:visited {
+	color: #E1EDC9;
+	text-decoration: none;
+
+}
+.sidebar a:hover,
+.sidebar a:active {
+	color: #ffffff;
+	text-decoration: none;
+}
+div.main {
+	margin-left: 160px;
+}
+div#nav {
+	clear: both;
+	margin-bottom: 10px;
+}
+#nav a,
+#nav a:link,
+#nav a:visited {
+	display: block;
+	color: #459e00;
+	text-decoration: none;
+	padding: 6px 20px;
+}
+#nav ul {
+	list-style: none;
+	padding: 0px;
+	overflow: hidden;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#nav li {
+	display: inline-block;
+	font-size: 14px;
+	font-weight: bold;
+	color: #459e00;
+	margin: 0px 2px 0px 2px;
+	border: 1px solid #459e00;
+	text-transform: uppercase;
+	border-radius: 6px;
+}
+#nav a:hover,
+#nav a:active {
+	background: #459e00;
+	color: #ffffff;
+}
+#nav #iamhere a, 
+#nav #iamhere a:hover {
+	background: #459e00;
+	color: #ffffff;
+}
+li#navmembers {
+	border: 1px solid #000000;
+	border-radius: 6px;
+	background: #459e00;
+}
+li#navmembers a,
+li#navmembers a:hover {
+	color: #FFFFFF;
+}
+a, a:link, a:visited {
+	color: #459e00;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 14px;	
+	text-decoration: none;
+	border-radius: 4px;
+}
+a:hover, a:active {
+	color: #E1EDC9;
+	border-radius: 4px;
+}
+a.incontent {
+	text-transform: none;
+	color: #459e00;
+	text-decoration: none;
+	font-size: inherit;
+}
+p#foot {
+	text-align: center;
+	padding: 0px 0px 20px;
+}
+#foot a:hover {
+	color: #459e00;
+}
+#foot a:active {
+	color: #ffffff;
+}
+#addressForm {
+	width: 200px;
+	float: right;
+	padding: 10px 0px 10px 10px;
+	text-align: left;
+	clear: right;
+}
+div.rightfloat {
+	width: 200px;
+	padding: 10px 0px 10px 10px;
+	float: right;
+	text-align: center;
+	clear: right;
+}
+div.memberlevel {
+	clear: both;
+}
+p.border {
+	border-bottom: 1px solid;
+	padding: 10px 0px;
+	margin: 5px 0px;
+}
+div#examples {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+#examples img {
+	height: 100px;
+	float: left;
+}
+p.button {
+	padding: 10px;
+	border: 1px solid #000000;
+	border-radius: 6px;
+	background: #459e00;
+}
+.button a, .button a:link, .button a:visited, .button a:hover, .button a:active {
+	color: #FFFFFF;
+}
+img.bio {
+	float: left;
+}
+p.bio {
+	padding: 10px 10px 10px 120px;
+	font-size: 16px;
+	line-height: 150%;
+}
+.fadein {
+	position: relative;
+	margin-left: auto;
+	width: 500px;
+	height: 332px;
+}
+.fadein img {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 300px;
+}
+hr {
+	width: 50%;
+	height: 3px;
+}

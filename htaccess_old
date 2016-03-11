@@ -1,0 +1,4 @@
+AuthName "Bay State Commons Members"
+AuthUserFile /path/to/password/file/.htpasswd
+AuthType Basic
+require valid-user

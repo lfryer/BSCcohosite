@@ -1,0 +1,148 @@
+body {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	background: #E1EDC9;
+	font-family: sans-serif;
+	width: 80%;
+}
+div#logo {
+	float: left;
+	padding-left: 15%;
+}
+div#sub {
+	float: right;
+	padding-top: 10%;
+	padding-right: 12%;
+	font-style: italic;
+}
+div#nav {
+	clear: both;
+	margin-bottom: 10px;
+}
+#nav a,
+#nav a:link,
+#nav a:visited {
+	display: block;
+	color: #459e00;
+	text-decoration: none;
+	padding: 6px 20px;
+}
+#nav ul {
+	list-style: none;
+	padding: 0px;
+	overflow: hidden;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#nav li {
+	display: inline-block;
+	font-size: 14px;
+	font-weight: bold;
+	color: #459e00;
+	margin: 0px 2px 0px 2px;
+	border: 1px solid #459e00;
+	text-transform: uppercase;
+	border-radius: 6px;
+}
+#nav a:hover,
+#nav a:active {
+	background: #459e00;
+	color: #ffffff;
+}
+#nav #iamhere a, 
+#nav #iamhere a:hover {
+	background: #459e00;
+	color: #ffffff;
+}
+div.content {
+	background: #FFFFFF;
+	border-radius: 6px;
+	clear: both;
+	min-height: 240px;
+	padding: 10px 20px 0px;
+	margin-bottom: 5%;
+	overflow: hidden;
+	position: relative;
+}
+h1 {
+	color: #000000;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+}
+p.text {
+	text-indent: 20px;
+	line-height: 150%;
+}
+p.query {
+	text-indent: 20px;
+	font-weight: bold;
+}
+p#indents {
+	padding-left: 20px;
+}
+p#centered {
+	text-align: center;
+	line-height: 200%;
+}
+p.news {
+	font-size: 22px;
+	background: #E1EDC9;
+	width: 60%;
+	line-height: 150%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	}
+p.pdf {
+	color: #000000;
+	size: 10px;
+	text-align: center;
+}
+table.photos {
+	margin-left: auto;
+	margin-right: auto;
+}
+img#footer {
+	float: right;
+	clear: none;
+	vertical-align: text-top;
+}
+div.main {
+	margin-left: 160px;
+}
+a, a:link, a:visited {
+	color: #459e00;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 14px;	
+	text-decoration: none;
+}
+a:hover, a:active {
+	color: #E1EDC9;
+}
+a#inherit {
+	text-transform: none;
+	color: #459e00;
+	text-decoration: none;
+	font-size: inherit;
+}
+p#foot {
+	text-align: center;
+	padding: 0px 0px 20px;
+}
+#foot a:hover {
+	color: #459e00;
+}
+#foot a:active {
+	color: #ffffff;
+}
