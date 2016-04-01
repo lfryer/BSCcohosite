@@ -2,6 +2,8 @@
 
 <h2>Photo Gallery</h2>
 <div class="fadein">
+<img src="images/meetings/m&m1.JPG">
+<img src="images/meetings/m&m2.JPG">
 <img src="images/meetings/Jim_Peggy.jpg">
 <img src="images/meetings/Vlad_Carol.jpg">
 <img src="images/meetings/Lorraine_Becca.jpg">

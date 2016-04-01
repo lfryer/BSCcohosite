@@ -61,7 +61,7 @@ Members Area
     <h3>NEWS</h3>
     <p class="text"></p>
     <ul class="news">
-    <li>Come by one before one of our business meetings to meet a few members and learn about our project. We meet every other Tuesday from 7-9pm at Cornerstone Cohousing, 175 Harvey Street, Cambridge MA; we will be around to meet you at 6:30pm. Email <a href="mailto:baystatecommons@gmail.com?">baystatecommons@gmail.com</a> to find out when our next business meeting is. We look forward to meeting you!
+    <li>Come by before one of our business meetings to meet a few members and learn about our project. We meet every other Tuesday from 7-9pm at Cornerstone Cohousing, 175 Harvey Street, Cambridge MA; we will be around to meet you at 6:30pm. Email <a href="mailto:baystatecommons@gmail.com?">baystatecommons@gmail.com</a> to find out when our next business meeting is. We look forward to meeting you!
     </ul>
 	
 	</div>
