@@ -279,26 +279,42 @@ p.button {
 .button a, .button a:link, .button a:visited, .button a:hover, .button a:active {
 	color: #FFFFFF;
 }
+div.household {
+	margin: 2px;
+	padding: 2px;
+	border: 2px #E1EDC9 solid;
+	min-height: 100px;
+}
+div.left {
+	float: left;
+}
+div.right {
+	float: right;
+}
 img.bio {
 	float: left;
+	padding:10px
+	clear: both;
 }
 p.bio {
 	padding: 10px 10px 10px 120px;
 	font-size: 16px;
 	line-height: 150%;
 }
-.fadein {
-	position: relative;
-	margin-left: auto;
-	width: 500px;
-	height: 332px;
-}
-.fadein img {
+div.photo {
 	display: block;
-	position: absolute;
-	left: 0;
-	top: 0;
-	height: 300px;
+	float: left;
+	padding: 10px;
+}
+p.gallerylabel {
+	text-align: center;
+	clear: both;
+	font-size: 20px;
+}
+img.gallery {
+	display: inline-block;
+	max-height: 100px;
+	padding: 10px;
 }
 hr {
 	width: 50%;
