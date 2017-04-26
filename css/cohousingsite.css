@@ -9,7 +9,7 @@ div.content {
 	clear: both;
 	min-height: 240px;
 	padding: 10px 20px 200px;
-	margin: 0% 5% 5%;
+	margin: 0 5vw 5vw;
 	overflow: hidden;
 	position: relative;
 	border-radius: 6px;
@@ -104,9 +104,6 @@ p.faq a {
 p.faq a:visited {
 	color: #A9A9A9;
 }
-div#news {
-	clear: both;
-}
 ul.news {
 	text-indent: 20px;
 	line-height: 150%;
@@ -117,13 +114,12 @@ table.photos {
 }
 div#logo {
 	float: left;
-	padding-left: 15%;
+	padding-left: 15vw;
 }
 div#sub {
-	float: left;
-	padding-top: 140px;
-	padding-right: 15%;
-	padding-left: 10%;
+	text-align: right;
+	margin: 0 15vw;
+	padding-top: 10vw;
 	font-style: italic;
 }
 div.sidebar {
@@ -164,7 +160,6 @@ div.main {
 }
 div#nav {
 	clear: both;
-	margin-bottom: 10px;
 }
 #nav a,
 #nav a:link,
@@ -176,11 +171,9 @@ div#nav {
 }
 #nav ul {
 	list-style: none;
-	padding: 0px;
+	padding: 0;
 	overflow: hidden;
-	margin-bottom: 0px;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 0 auto;
 	text-align: center;
 }
 #nav li {
@@ -188,7 +181,7 @@ div#nav {
 	font-size: 14px;
 	font-weight: bold;
 	color: #459e00;
-	margin: 0px 2px 0px 2px;
+	margin: .5vw .2vw 1vw;
 	border: 1px solid #459e00;
 	text-transform: uppercase;
 	border-radius: 6px;
@@ -280,24 +273,20 @@ p.button {
 	color: #FFFFFF;
 }
 div.household {
-	margin: 2px;
-	padding: 2px;
+	margin: 12px;
+	padding: 4px;
 	border: 2px #E1EDC9 solid;
-	min-height: 100px;
+	min-height: 160px;
 }
-div.left {
-	float: left;
-}
-div.right {
-	float: right;
+p.name {
+	padding: 10px;
 }
 img.bio {
 	float: left;
-	padding:10px
-	clear: both;
+	padding: 10px;
 }
 p.bio {
-	padding: 10px 10px 10px 120px;
+	padding: 10px 10px 20px 120px;
 	font-size: 16px;
 	line-height: 150%;
 }

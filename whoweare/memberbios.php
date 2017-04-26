@@ -1,13 +1,13 @@
 
-<p class="text">Click on names or pictures to see them up close.</p>
 <h2>BSC Equity Members</h2>
                    
+<p class="text">Click on names or pictures to see them up close.</p>
 <div class="household">
    <a href="images/biopics/Peter.jpg" data-lightbox="Bios" data-title="Peter is a software developer working in biotechnology. An unrepentant New Englander, Peter went to school in Providence and now lives in Cambridge. In addition to cohousing, Peter is excited about classical music, machine learning, dragons, dungeons, and home-made bread.">
-	   <img src="images/biopics/thumbnails/Peter.jpg" class="bio">
-	   <p class="bio">
+	   <p class="name">
 		   Meet Peter!
 		</p>
+	   <img src="images/biopics/thumbnails/Peter.jpg" class="bio">
    </a>
 	<p class="bio">
 		Peter is a software developer working in biotechnology. An unrepentant New Englander, Peter went to school in Providence and now lives in Cambridge. In addition to cohousing, Peter is excited about classical music, machine learning, dragons, dungeons, and home-made bread.
@@ -15,10 +15,10 @@
 </div>
 <div class="household">
 	<a href="images/biopics/Emery_Becca.jpg" data-lightbox="Bios" data-title="Becca is a biochemist working in the Longwood Medical Area. Becca has bounced around New England, going to undergrad at Colby College, and then grad school at Boston College. She decided to marry a terribly tall possible viking redhead last summer, with whom she enjoys reading the nerdiest of scifi/fantasy books, cooking delicious food, and -gasp- video games.">
-		<img src="images/biopics/thumbnails/Emery_Becca.jpg" class="bio">
-		<p class="bio">
-		   Meet Becca and Emery!
+		<p class="name">
+		   Meet Becca, Emery and Lana!
 		</p>   
+		<img src="images/biopics/thumbnails/Emery_Becca.jpg" class="bio">
 	</a>
 	<p class="bio">
 		Becca is a biochemist working in the Longwood Medical Area. Becca has bounced around New England, going to undergrad at Colby College, and then grad school at Boston College. She decided to marry a terribly tall possible viking redhead last summer, with whom she enjoys reading the nerdiest of scifi/fantasy books, cooking delicious food, and -gasp- video games.
@@ -29,13 +29,19 @@
 	<p class="bio">
 		Emery is a laid back couch-lounger, who enjoys draping himself across all kinds of padded seating. While draped, he fancies himself an armchair movie critic.  He is a voice actor and a musician who masquerades as a computer technician five days a week.  He laughs at the strangest things.
 	</p>
+	<a href="images/biopics/Lana.jpg" data-lightbox="Bios" data-title="Lana is a baby. She is small and curious.">
+		<img src="images/biopics/thumbnails/Lana.jpg" class="bio">
+	</a>
+	<p class="bio">
+		Lana is a baby. She is small and curious.
+	</p>
 </div>
 <div class="household">
 	<a href="images/biopics/Lorraine.jpg" data-lightbox="Bios" data-title="Lorraine is a singer, a potter, and an aspiring museum professional. She enjoys fuzzy things, improv harmonies, and conversational tangents. As an advocate for social justice without the energy to actually be helpful, she frequently engages in passionate arguments with her friends in which nobody is actually disagreeing with anyone else. Lorraine is also a fan of many forms of media, and collects trivia about her favorite movies, webcomics, and actors.">
-		<img src="images/biopics/thumbnails/Lorraine.jpg" class="bio">
-		<p class="bio">
+		<p class="name">
 		   Meet Lorraine and Vlad!
 		</p>   
+		<img src="images/biopics/thumbnails/Lorraine.jpg" class="bio">
 	</a>
 	<p class="bio">
 		Lorraine is a singer, a potter, and an aspiring museum professional. She enjoys fuzzy things, improv harmonies, and conversational tangents. As an advocate for social justice without the energy to actually be helpful, she frequently engages in passionate arguments with her friends in which nobody is actually disagreeing with anyone else. Lorraine is also a fan of many forms of media, and collects trivia about her favorite movies, webcomics, and actors.
@@ -49,10 +55,10 @@
 </div>
 <div class="household">
 	<a href="images/biopics/Peggy.jpg" data-lightbox="Bios" data-title="Peggy is a retired molecular biologist and administrator who is now devoted to making goat cheese. As well she is definitely into making and sharing all kinds of good food and growing some of it, along with lots of flowers. She is committed to taking an active part in larger community affairs, reads an eclectic assortment of books, loves music of all sorts, especially Bach, and loves to hike, canoe, and travel. She and Jim are married and have lived in Charlestown for a very long time.">
-		<img src="images/biopics/thumbnails/Peggy.jpg" class="bio">
-		<p class="bio">
+		<p class="name">
 		   Meet Peggy and Jim!
 		</p>   
+		<img src="images/biopics/thumbnails/Peggy.jpg" class="bio">
 	</a>
 	<p class="bio">
 		Peggy is a retired molecular biologist and administrator who is now devoted to making goat cheese. As well she is definitely into making and sharing all kinds of good food and growing some of it, along with lots of flowers. She is committed to taking an active part in larger community affairs, reads an eclectic assortment of books, loves music of all sorts, especially Bach, and loves to hike, canoe, and travel. She and Jim are married and have lived in Charlestown for a very long time.
@@ -66,10 +72,10 @@
 </div>
 <div class="household">
 	<a href="images/biopics/Trudy.jpg" data-lightbox="Bios" data-title="Trudy is a recently retired nurse/casemanager.  She is also a yoga teacher and has become an avid gardener and volunteers with the Master Gardeners.  If not in the garden or on a yoga mat, you will find her cooking, hiking or cross country skiing.  She travels regularly to visit her 2 sons and 4 grandchildren in California.">
-		<img src="images/biopics/thumbnails/Trudy.jpg" class="bio">
-		<p class="bio">
+		<p class="name">
 		    Meet Trudy!
 		</p>   
+		<img src="images/biopics/thumbnails/Trudy.jpg" class="bio">
 	</a>
 	<p class="bio">
 		Trudy is a recently retired nurse/casemanager. She is also a yoga teacher and has become an avid gardener and volunteers with the Master Gardeners. If not in the garden or on a yoga mat, you will find her cooking, hiking or cross country skiing. She travels regularly to visit her 2 sons and 4 grandchildren in California.
@@ -77,10 +83,10 @@
 </div>
 <div class="household">
 	<a href="images/biopics/Tom&Kathy.jpg" data-lightbox="Bios" data-title="Tom is a retired business computer programmer analyst.  He now spends a lot of his time experimenting in early music (1400-1750), where he plays recorders, viola da gambas, and other strange instruments along with his wife Kathy. Retired from paid employment, Kathy pursues art, music and the spiritual development of herself and the children in her UU church. She also enjoys reading (serious fiction, mysteries, and fantasy), playing computer games, and quilting. Walking, swimming, and yoga are her active activities.  Her paid employment was mainly computer programming. She graduated from the University of Minnesota (Latin), UMass Amherst (MAT in Latin), and Salem State College (MSW in Social Work).">
-		<img src="images/biopics/thumbnails/Tom&Kathy.jpg" class="bio">
-		<p class="bio">
+		<p class="name">
 		   Meet Tom and Kathy!
 		</p>   
+		<img src="images/biopics/thumbnails/Tom&Kathy.jpg" class="bio">
 	</a>
 	<p class="bio">
 		Tom is a retired business computer programmer analyst.  He now spends a lot of his time experimenting in early music (1400-1750), where he plays recorders, viola da gambas, and other strange instruments along with his wife Kathy. Retired from paid employment, Kathy pursues art, music and the spiritual development of herself and the children in her UU church. She also enjoys reading (serious fiction, mysteries, and fantasy), playing computer games, and quilting. Walking, swimming, and yoga are her active activities.  Her paid employment was mainly computer programming. She graduated from the University of Minnesota (Latin), UMass Amherst (MAT in Latin), and Salem State College (MSW in Social Work).
@@ -88,10 +94,10 @@
 </div>
 <div class="household">
 	<a href="images/biopics/Ricardo.jpg" data-lightbox="Bios" data-title="Known amongst his friends as 'a nobleman born to the people' and 'Reverend Ricardo', he lives up to his reputation of being a little bit charming and whole a lot respectful and patient. Ricardo loves board games, card games and naps. He grows award-winning dahlias, loves movies and is an amateur filmmaker, himself. Ricardo has had grey hair since high school, was salt and pepper for years, and now he's all salt but still he's full of pepper. You can know Ricardo for years and still regularly discover new things about him. Maybe you can join him at tap-dancing class?">
-		<img src="images/biopics/thumbnails/Ricardo.jpg" class="bio">
-		<p class="bio">
+		<p class="name">
 		   Meet Ricardo, Kate, Finn, and Nico!
 		</p>
+		<img src="images/biopics/thumbnails/Ricardo.jpg" class="bio">
 	</a>
 	<p class="bio">
 		Known amongst his friends as 'a nobleman born to the people' and 'Reverend Ricardo', he lives up to his reputation of being a little bit charming and whole a lot respectful and patient. Ricardo loves board games, card games and naps. He grows award-winning dahlias, loves movies and is an amateur filmmaker, himself. Ricardo has had grey hair since high school, was salt and pepper for years, and now he's all salt but still he's full of pepper. You can know Ricardo for years and still regularly discover new things about him. Maybe you can join him at tap-dancing class?
@@ -117,13 +123,35 @@
 </div>
 <div class="household">
 	<a href="images/biopics/John_Meredith_Randall_Margaret.jpg" data-lightbox="Bios" data-title="As BSC's only three-generation household, John, Randall, their daughter Meredith, and Randall's mother Margaret have been living in 'cohousing' (a two-family house) together for thirty years. So we know what we're getting into! Margaret is a dedicated quilter who also loves to read. John plays trumpet in a brass quartet and works as a corporate controller by day. He loves to bike and ski. Randall, a college professor in the field of criminal justice, plays recorder in an ensemble and sings in choirs and pick-up choruses wherever she can. Meredith is a sociologist by training, and enjoys reading Discworld novels and hiking in the nearby Fells reservation.">
-		<img src="images/biopics/thumbnails/John_Meredith_Randall_Margaret.jpg" class="bio">
-		<p class="bio">
+		<p class="name">
 		   Meet John, Randall, Meredith, and Margaret!
 		</p>
+		<img src="images/biopics/thumbnails/John_Meredith_Randall_Margaret.jpg" class="bio">
 	</a>
 	<p class="bio">
 		As BSC's only three-generation household, John, Randall, their daughter Meredith, and Randall's mother Margaret have been living in "cohousing" (a two-family house) together for thirty years. So we know what we're getting into! Margaret is a dedicated quilter who also loves to read. John plays trumpet in a brass quartet and works as a corporate controller by day. He loves to bike and ski. Randall, a college professor in the field of criminal justice, plays recorder in an ensemble and sings in choirs and pick-up choruses wherever she can. Meredith is a sociologist by training, and enjoys reading Discworld novels and hiking in the nearby Fells reservation.
+	</p>
+</div>
+<div class="household">
+	<a href="images/biopics/Marcia.jpg" data-lightbox="Bios" data-title="Marcia is a psychiatrist practicing in an outpatient clinic.  Before going to medical school, she was a technical writer and manager at Lotus Development Corporation, and also taught fifth grade at an independent school in Baltimore.  She is active in the Boston Workmen’s Circle, and sings in the Yiddish chorus, A Besere Velt.  She also enjoys reading, playing the violin and viola, and listening to classical and folk music.  She is committed to working for social justice, looking for the best way to apply her skills and experience.">
+		<p class="name">
+		   Meet Marcia!
+		</p>
+		<img src="images/biopics/thumbnails/Marcia.jpg" class="bio">
+	</a>
+	<p class="bio">
+		Marcia is a psychiatrist practicing in an outpatient clinic.  Before going to medical school, she was a technical writer and manager at Lotus Development Corporation, and also taught fifth grade at an independent school in Baltimore.  She is active in the Boston Workmen’s Circle, and sings in the Yiddish chorus, A Besere Velt.  She also enjoys reading, playing the violin and viola, and listening to classical and folk music.  She is committed to working for social justice, looking for the best way to apply her skills and experience.
+	</p>
+</div>
+<div class="household">
+	<a href="images/biopics/Christine.jpg" data-lightbox="Bios" data-title="Christine is a motorcyclist and architect with a severe over-volunteering problem.  In the trade-off between desirability of location versus square footage, she's lived in the tiniest condo in the best location - Boston's North End - since 1998.   Except, that is, for various work relocations to Santa Monica, Abu Dhabi, Dallas, and Portland Oregon.  Interests include coffee snobbery, finding new recipes to use up a CSA farmshare, extreme energy efficiency in building construction, perfecting her freestyle swim stroke, and watching way too much TV.  She is the Almighty Queen of the Excel Spreadsheet.">
+		<p class="name">
+		   Meet Christine!
+		</p>
+		<img src="images/biopics/thumbnails/Christine.jpg" class="bio">
+	</a>
+	<p class="bio">
+		Christine is a motorcyclist and architect with a severe over-volunteering problem.  In the trade-off between desirability of location versus square footage, she's lived in the tiniest condo in the best location - Boston's North End - since 1998.   Except, that is, for various work relocations to Santa Monica, Abu Dhabi, Dallas, and Portland Oregon.  Interests include coffee snobbery, finding new recipes to use up a CSA farmshare, extreme energy efficiency in building construction, perfecting her freestyle swim stroke, and watching way too much TV.  She is the Almighty Queen of the Excel Spreadsheet.
 	</p>
 </div>
 <script src="js/lightbox-plus-jquery.min.js"></script>

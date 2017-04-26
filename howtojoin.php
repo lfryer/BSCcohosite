@@ -87,14 +87,15 @@ Associate members make semi-annual, non-refundable payments of $250.
 <br>
 <dt>Equity Member</dt>
 
-<dd>An Equity Member is someone who has made the decision to invest in the Bay State Commons cohousing project. After someone has become an Associate Member, they have the option of becoming an Equity Member.
+<dd>An Equity Member is someone who has made the decision to invest in the Bay State Commons cohousing project. After someone has become an Associate Member, they have the option of applying to become an Equity Member.
 In order to reach Equity Member status, you must:
 <ol>
 <li>Attend at least three meetings as an Associate Member;</li>
+<li>Complete the Equity Member application form;</li>
 <li>Go through a financial risk clearness process;</li>
 <li>Be trained in consensus decision-making and facilitation;</li>
-<li>Complete the Equity Member application form;</li>
-<li>Make an equity payment (amount dependent on status of project).</li>
+<li>By approved by current Equity members; </li>
+<li>Make an equity payment (amount dependent on status of project). This is a down payment on your future living unit.</li>
 </ol>
 <h5>Rights and Responsibilities of an Equity Member:</h5>
 <ul>
